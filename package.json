@@ -1,0 +1,16 @@
+{
+  "name": "mes-recettes-app",
+  "version": "1.0.0",
+  "description": "Application de planification des repas",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.0"
+  }
+}
